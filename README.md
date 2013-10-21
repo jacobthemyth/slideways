@@ -8,11 +8,11 @@ Slideways is a library for full page transitions, with mobile performance in min
 
 To transition to a new page, Slideways follows the following steps, most of which are optional:
 
-1) Position the new page outside of the viewport.
-2) Force a reflow.
-3) Transition the page to its ending position.
-4) Remove the old page from the DOM.
-5) Clean up after view object (i.e. kill all zombies).
+1. Position the new page outside of the viewport.
+2. Force a reflow.
+3. Transition the page to its ending position.
+4. Remove the old page from the DOM.
+5. Clean up after view object (i.e. kill all zombies).
 
 # Installation
 
