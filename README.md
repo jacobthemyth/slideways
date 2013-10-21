@@ -1,4 +1,4 @@
-backbone.slipnslide
+Slip n Slide
 ===================
 
-A page transition plugin for Backbone.js
+A mobile page transition library.
