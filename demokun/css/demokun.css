@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.iphone {
+  position: relative;
+  width: 375px;
+  height: 806px;
+  background-image: url("../img/iphone.png");
+  margin: 0 auto 0 auto;
+}
+
+.iphone .iphone-content {
+  position: absolute;
+  top: 147px;
+  left: 27px;
+  width: 320px;
+  height: 548px;
+  overflow: hidden;
+  background-color: white;
+}
+
+@media only screen and (max-width: 767px) {
+  .iphone {
+    background: none;
+  }
+
+  .iphone .iphone-content {
+    top: 0;
+    left: 0;
+  }
+}
