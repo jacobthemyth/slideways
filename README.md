@@ -93,4 +93,4 @@ or throw caution to the wind!:
 - Provide a hook (using the webkitTransitionEnd event) for adding some logic when the transition completes.
 
 # License
-Slip n Slide is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+Slideways is licensed under the [MIT License](http://opensource.org/licenses/MIT).
